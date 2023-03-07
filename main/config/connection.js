@@ -1,3 +1,4 @@
+// PROVIDED AS STARTER CODE
 require('dotenv').config();
 
 const Sequelize = require('sequelize');
